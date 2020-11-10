@@ -57,6 +57,6 @@ const createNewBlock = (data: string): Block => {
 
 }
 
-console.log("blockChain: ",blockChain);
+console.log("blockChain:  ",blockChain);
 console.log(createNewBlock("hi"), createNewBlock("bye"));
 export {};

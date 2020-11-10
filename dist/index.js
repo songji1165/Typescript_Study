@@ -25,6 +25,6 @@ const createNewBlock = (data) => {
     const newBlock = new Block(newIndex, newHash, previosBlock.hash, data, newTimestamp);
     return newBlock;
 };
-console.log("blockChain: ", blockChain);
+console.log("blockChain:  ", blockChain);
 console.log(createNewBlock("hi"), createNewBlock("bye"));
 //# sourceMappingURL=index.js.map
