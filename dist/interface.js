@@ -9,4 +9,4 @@ const sayHi = (person) => {
 };
 sayHi(person);
 //typescript 법칙! export : 해당 파일은 모듈이다 라고 선언!
-//# sourceMappingURL=interface.js.map
+//# sourceMappingURL=Interface.js.map
